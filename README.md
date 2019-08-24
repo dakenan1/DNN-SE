@@ -1,5 +1,5 @@
 # DNN-SE
-DNN based speech enhancement
+DNN based speech enhancement, include data processing via Matlab
 
 dataset: TIMIT
 
